@@ -1,0 +1,12 @@
+[OPEN] 80/tcp → HTTP
+
+[HTTP HEADERS]
+HTTP/1.1 301 Moved Permanently
+Location: https://instagram.com/
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Mon, 25 May 2026 18:38:58 GMT
+Connection: close
+Content-Length: 0
+
+[OPEN] 443/tcp → HTTPS
